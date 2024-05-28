@@ -1,0 +1,58 @@
+[
+   {
+     "id":1,
+     "name": "Literature",
+      "title": "Explore captivating literature books with timeless stories and profound insights.",
+      "price": 0,
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+    {
+      "id":2,
+      "name": "Fictional",
+      "title": "Explore captivating Fictional books with timeless stories and profound insights.",
+      "price": 10,
+      "category": "Paid",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+    {
+      "id":3,
+      "name": "Non-Fictional",
+      "title": "Explore captivating Non-Fictional books with timeless stories and profound insights.",
+      "price": 40,
+      "category": "Paid",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+     {
+        "id":4,
+        "name": "Sports",
+        "title": "Explore captivating sports books with timeless stories and profound insights.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+    {
+        "id":5,
+        "name": "General Knowledge",
+        "title": "Explore captivating General Knowledge books with timeless stories and profound insights.",
+        "price": 10,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+    {
+        "id":6,
+        "name": "Science",
+        "title": "Explore captivating Science books with timeless stories and profound insights.",
+        "price": 80,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+    },
+    {
+      "id":7,
+      "name": "Music Book",
+      "title": "Explore captivating Music books with timeless stories and profound insights.",
+      "price": 0,
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716804227~exp=1716807827~hmac=f009a404831f9963f2ecc00ef46144721b1041a42684d8333ec1de49e7c93d47&w=826"
+  }
+]
